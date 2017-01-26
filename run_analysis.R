@@ -1,4 +1,3 @@
-setwd("/Users/dariagan/Documents/COURSERA/cleaning-data/HAR/download-raw/")
 rm(list = ls())
 
 # Load all necessary packages
